@@ -1,0 +1,7 @@
+{
+  "tooltip.toolstats.harvestlevel":" %d Nível de coleta",
+  "tooltip.toolstats.efficiency":" %s Velocidade de extração",
+  "tooltip.toolstats.enchantability":" %d Encantabilidade: ",
+  "tooltip.toolstats.repaircost":" Custo de Reparo: %d",
+  "tooltip.toolstats.when_on.horse":"Em Cavalos: "
+}
